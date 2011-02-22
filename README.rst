@@ -58,4 +58,4 @@ Known Limitations
 
 The file path most begin with a '/' if the svnroot doesn't end with one and vice versa. However, it is not possible to have both.
 
-Current implementation must have the protocol specified in svnroot if a remote repo is to be used. Since we can't use '/' in html attributes, we need to specify this in the $svnPathRoot. I still don't know if it is possible to encode the
+Current implementation must have the protocol specified in svnroot if a remote repo is to be used. 
