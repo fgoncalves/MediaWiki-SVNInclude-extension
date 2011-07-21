@@ -5,7 +5,7 @@ $wgExtensionCredits['other'][] = array
 (
     'name' => 'SVNInclude',
     'author' => 'Frederico Gonçalves',
-    'url' => '',
+    'url' => 'https://github.com/fgoncalves/MediaWiki-SVNInclude-extension',
     'description' => 'This extensions lets you include svn files from any svn repo.'
 );
  
